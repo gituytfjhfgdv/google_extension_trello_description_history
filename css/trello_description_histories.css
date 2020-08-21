@@ -1,0 +1,20 @@
+/*main.css*/
+.history_content {
+  padding-left: 12px;
+  background: #fffd;
+  box-shadow: 1px 1px 1px #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 10px;
+}
+.bold {
+  font-weight: bold;
+}
+.date {
+  font-size:10px;
+  color:#5e6c84;
+}
+.history_wrapper {
+  font-size:11px;
+  padding:10px 40px;
+}
