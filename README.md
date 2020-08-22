@@ -16,6 +16,7 @@ You can use this function via The Chrome Webstore, or you can check this by down
 - Display histories on each card.
 - History information which will be displayed are who updated, when, before content and after content.
 
+![functional image](function_image.png)
 ## Why this extension's icon is cat?
 I have no reason. I just love it.
 
