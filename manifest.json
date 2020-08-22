@@ -1,7 +1,7 @@
 {
   "name": "Description histories for Trello",
   "description": "This program display histories of your card's description in Trello.",
-  "version": "1.0",
+  "version": "1.0.0",
   "manifest_version": 2,
   "content_scripts": [
     {
@@ -18,6 +18,11 @@
       ]
     }
   ],
+  "icons": {
+    "16": "images/trello_description_history_cat_icon16.png",
+    "48": "images/trello_description_history_cat_icon48.png",
+    "128": "images/trello_description_history_cat_icon128.png"
+  },
   "browser_action": {
    "default_icon": "images/trello_description_history_cat_icon.png"
   },
